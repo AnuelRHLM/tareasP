@@ -1,3 +1,4 @@
+package tareas;
 public class Prioridad {
     private String nombre;
     private int valor;
